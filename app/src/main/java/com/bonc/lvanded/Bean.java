@@ -17,14 +17,6 @@ public class Bean implements Serializable{
         this.list = list;
     }
 
-    public boolean isWrite() {
-        return isWrite;
-    }
-
-    public void setWrite(boolean write) {
-        isWrite = write;
-    }
-
     public String getGroup() {
         return group;
     }
